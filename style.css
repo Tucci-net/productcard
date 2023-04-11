@@ -1,0 +1,23 @@
+body{
+    background:orange;
+    height:100vh;
+    display:grid; 
+    justify-content: center;
+    align-content:center;
+  }
+  div {
+    background: #2d795c;
+    width: 320px;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  h1{
+  text-align :center;
+  }
+  p {
+    font-size: 1.5em;
+  }
+  img{
+    border: 10px solid maroon;
+    border-radius: 6px;
+  }
